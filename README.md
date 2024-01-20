@@ -1,2 +1,1 @@
-# monty
-Group Project. I had to do alone
+0x19. C - Stacks, Queues - LIFO, FIFO
